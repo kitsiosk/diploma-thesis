@@ -15,7 +15,7 @@ Code sub-routines and pretrained neural networks are used from the research pape
 [3]: N. Pitsianis, A. Iliopoulos, D. Floros, and X. Sun, ‘‘Spaceland embedding of sparse stochastic graphs,’’2019 IEEE High Performance Extreme Computing Conference (HPEC),pp. 1-8, 2019.
 
 ### Setup
-The packages needed in order to run the code are in the *requirements.txt* file and you can install the through pip by running
+The packages needed in order to run the code are in the *requirements.txt* file and you can install them through pip by running
 `pip install requirements.txt`
 
 The code for each dataset can be executed from the associated notebook (.ipynb)
